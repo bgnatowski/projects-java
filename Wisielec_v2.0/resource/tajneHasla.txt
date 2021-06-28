@@ -1,0 +1,71 @@
+zwierzęta/kot brytyjski
+zwierzęta/salamandra plamista
+zwierzęta/tukan
+zwierzęta/różowa pantera
+zwierzęta/pies berneński pasterski
+zwierzęta/sowa śnieżna
+zwierzęta/niedźwiedź polarny
+zwierzęta/papuga
+zwierzęta/miś koala
+zwierzęta/gepard
+POTRAWY/pierogi ruskie
+POTRAWY/spaghetti bolognese
+POTRAWY/rosół z kóry
+POTRAWY/szakszuka
+POTRAWY/kebab na ostrym z baraniną
+POTRAWY/zupa z trupa
+POTRAWY/kluski śląskie
+POTRAWY/sernik na zimno
+POTRAWY/smoothie truskawkowe
+POTRAWY/makrela wędzona
+ROŚLINY(kwiatki, drzewa)/róża
+ROŚLINY(kwiatki, drzewa)/tulipan
+ROŚLINY(kwiatki, drzewa)/modrzew
+ROŚLINY(kwiatki, drzewa)/brzoza
+ROŚLINY(kwiatki, drzewa)/chryzantema
+ROŚLINY(kwiatki, drzewa)/storczyk
+ROŚLINY(kwiatki, drzewa)/przebiśniegi
+ROŚLINY(kwiatki, drzewa)/baobab afrykański
+ROŚLINY(kwiatki, drzewa)/dąb Bartek
+ROŚLINY(kwiatki, drzewa)/sekwoja wieczniezielona
+SPORT/skok w zwyż
+SPORT/siatkówka
+SPORT/hokej
+SPORT/skoki narciarskie
+SPORT/kajakarstwo
+SPORT/piłka nożna
+SPORT/wspinaczka górska
+SPORT/tenis ziemny
+SPORT/spadochroniarstwo
+SPORT/taekwondo
+MUZYKA(artysta tytuł)/quebonafide zorza
+MUZYKA(artysta tytuł)/taco hemingway leci nowy future
+MUZYKA(artysta tytuł)/kartky dom na skraju niczego
+MUZYKA(artysta tytuł)/lil peep life is beautiful
+MUZYKA(artysta tytuł)/happysad taką wodą być
+MUZYKA(artysta tytuł)/dżem wehikuł czasu
+MUZYKA(artysta tytuł)/lady pank zawsze tam gdzie ty
+MUZYKA(artysta tytuł)/bring me the horizon amo
+MUZYKA(artysta tytuł)/meek oh why zachód
+MUZYKA(artysta tytuł)/young igi każdy nowy dzień 
+GRY/wisielec
+GRY/wiedźmin
+GRY/pac man
+GRY/mario
+GRY/the last of us
+GRY/grand theft auto
+GRY/counter strike global offensive
+GRY/league of legends
+GRY/minecraft
+GRY/the binding of isaac
+GRY/fifa
+przysłowia/Bez pracy nie ma kołaczy
+przysłowia/Darowanemu koniowi w zęby się nie zagląda
+przysłowia/Fortuna kołem się toczy
+przysłowia/Nie chwal dnia przed zachodem słonca
+przysłowia/Lepszy wróbel w garści niż gołąb na dachu
+przysłowia/Apetyt rośnie w miarę jedzenia
+przysłowia/Co ma wisieć nie utonie
+przysłowia/Dzieci i ryby głosu nie mają
+przysłowia/Grosz do grosza, a będzie kokosza
+przysłowia/Gdzie kucharek sześć, tam nie ma co jeść
