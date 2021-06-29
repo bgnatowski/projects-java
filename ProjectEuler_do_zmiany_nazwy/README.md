@@ -1,1 +1,0 @@
-ProjetEuler jest zbiorem zadań wykonywanych w ramach: https://projecteuler.net
